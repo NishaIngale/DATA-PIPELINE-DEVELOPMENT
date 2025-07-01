@@ -1,5 +1,5 @@
 # DATA-PIPELINE-DEVELOPMENT
-# 🔄 Data Pipeline Development – Task 1 (CODTECH Internship)
+# Data Pipeline Development – Task 1 (CODTECH Internship)
 
 Automated **ETL pipeline** built using **Pandas** and **Scikit‑learn** during the CODTECH Data Science internship. This project demonstrates how to systematically **Extract, Preprocess, Transform**, and **Load** real-world data.
 
@@ -21,19 +21,6 @@ This ETL pipeline:
 Inspired by real-world pipelines using Pandas and Scikit-learn :contentReference[oaicite:1]{index=1}.
 
 ---
-
-## 🗂️ Repository Structure
-data-pipeline-task1/
-├── data/
-│ ├── raw_data.csv
-│ └── processed_data.csv
-├── etl_pipeline.ipynb # Notebook with full ETL workflow
-├── etl_pipeline.py # Script version (optional)
-├── requirements.txt
-└── README.md
-
----
-
 ## ⚙️ Technologies Used
 
 - Python 3.x  
@@ -42,20 +29,6 @@ data-pipeline-task1/
 - joblib *(optional)* for saving pipelines
 
 ---
-
-## 🚀 How to Run
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/data-pipeline-task1.git
-   cd data-pipeline-task1
-
-2. **Install dependencies**:
-   pip install -r requirements.txt
-   
-3. **Run the pipeline**:
-   In Jupyter: open and run etl_pipeline.ipynb
-   
 
 👀 **Why It Matters**
 
