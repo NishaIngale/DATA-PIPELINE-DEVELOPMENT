@@ -1,5 +1,4 @@
 # DATA-PIPELINE-DEVELOPMENT
-# Data Pipeline Development – Task 1 (CODTECH Internship)
 
 Automated **ETL pipeline** built using **Pandas** and **Scikit‑learn** during the CODTECH Data Science internship. This project demonstrates how to systematically **Extract, Preprocess, Transform**, and **Load** real-world data.
 
